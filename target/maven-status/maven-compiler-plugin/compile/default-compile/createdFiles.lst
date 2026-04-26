@@ -1,0 +1,8 @@
+com\universidad\antipatrones\GestorBiblioteca.class
+com\universidad\antipatrones\Main.class
+com\universidad\antipatrones\GeneradorReportes.class
+com\universidad\antipatrones\CatalogoLibros.class
+com\universidad\antipatrones\ServicioPrestamos.class
+com\universidad\antipatrones\RegistroSocios.class
+com\universidad\antipatrones\Libro.class
+com\universidad\antipatrones\Socio.class
